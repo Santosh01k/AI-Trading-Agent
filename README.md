@@ -49,8 +49,6 @@ The project is organized as follows:
 ├── backtesting.py          # Script for backtesting the AI agent's performance
 ├── requirements.txt        # Python dependencies
 ├── .env                    # Contains sensitive information like API keys (not included in repo)
-├── data/
-│   └── market_data.csv     # Historical market data for backtesting
 └── models/
     └── trained_model.pkl   # Trained machine learning model (optional)
 ```
