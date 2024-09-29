@@ -71,8 +71,11 @@ Historical market data for backtesting. You can update this with your own data.
 Optional file for storing the pre-trained machine learning model (if you want to load a pre-trained model for faster execution).
 
 ## Future Work
+
 **Advanced Machine Learning:** Experimenting with more complex models like neural networks or deep learning for more accurate predictions.
+
 **Real-time Data Processing:** Use GCP tools like Pub/Sub and DataFlow for real-time data ingestion and processing.
+
 **Risk Management:** Implementing advanced risk strategies such as stop-loss orders, take-profit, and portfolio optimization.
 
 ## Conclusion
